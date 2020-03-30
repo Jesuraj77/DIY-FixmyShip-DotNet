@@ -1,0 +1,14 @@
+C:\Users\shilpa\source\repos\FixMyShip.Web\FixMyShip.Entities\obj\Debug\netcoreapp2.2\FixMyShip.Entities.AssemblyInfoInputs.cache
+C:\Users\shilpa\source\repos\FixMyShip.Web\FixMyShip.Entities\obj\Debug\netcoreapp2.2\FixMyShip.Entities.AssemblyInfo.cs
+C:\Users\shilpa\source\repos\FixMyShip.Web\FixMyShip.Entities\bin\Debug\netcoreapp2.2\FixMyShip.Entities.deps.json
+C:\Users\shilpa\source\repos\FixMyShip.Web\FixMyShip.Entities\bin\Debug\netcoreapp2.2\FixMyShip.Entities.dll
+C:\Users\shilpa\source\repos\FixMyShip.Web\FixMyShip.Entities\bin\Debug\netcoreapp2.2\FixMyShip.Entities.pdb
+C:\Users\shilpa\source\repos\FixMyShip.Web\FixMyShip.Entities\obj\Debug\netcoreapp2.2\FixMyShip.Entities.dll
+C:\Users\shilpa\source\repos\FixMyShip.Web\FixMyShip.Entities\obj\Debug\netcoreapp2.2\FixMyShip.Entities.pdb
+\\WINWEBSERVER\Backup\March-2020\BCT\Shilpa\FixMyShip.Web\FixMyShip.Entities\bin\Debug\netcoreapp2.2\FixMyShip.Entities.deps.json
+\\WINWEBSERVER\Backup\March-2020\BCT\Shilpa\FixMyShip.Web\FixMyShip.Entities\bin\Debug\netcoreapp2.2\FixMyShip.Entities.dll
+\\WINWEBSERVER\Backup\March-2020\BCT\Shilpa\FixMyShip.Web\FixMyShip.Entities\bin\Debug\netcoreapp2.2\FixMyShip.Entities.pdb
+\\WINWEBSERVER\Backup\March-2020\BCT\Shilpa\FixMyShip.Web\FixMyShip.Entities\obj\Debug\netcoreapp2.2\FixMyShip.Entities.AssemblyInfoInputs.cache
+\\WINWEBSERVER\Backup\March-2020\BCT\Shilpa\FixMyShip.Web\FixMyShip.Entities\obj\Debug\netcoreapp2.2\FixMyShip.Entities.AssemblyInfo.cs
+\\WINWEBSERVER\Backup\March-2020\BCT\Shilpa\FixMyShip.Web\FixMyShip.Entities\obj\Debug\netcoreapp2.2\FixMyShip.Entities.dll
+\\WINWEBSERVER\Backup\March-2020\BCT\Shilpa\FixMyShip.Web\FixMyShip.Entities\obj\Debug\netcoreapp2.2\FixMyShip.Entities.pdb

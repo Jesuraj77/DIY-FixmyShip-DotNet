@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "FixMyShip.DataLayer/1.0.0": {
+        "runtime": {
+          "FixMyShip.DataLayer.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "FixMyShip.DataLayer/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

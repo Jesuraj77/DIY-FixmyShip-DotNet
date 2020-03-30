@@ -1,0 +1,290 @@
+{
+  "format": 1,
+  "restore": {
+    "\\\\WINWEBSERVER\\Backup\\March-2020\\BCT\\Shilpa\\FixMyShip.Web\\FixMyShip.TestCases\\FixMyShip.TestCases.csproj": {}
+  },
+  "projects": {
+    "\\\\WINWEBSERVER\\Backup\\March-2020\\BCT\\Shilpa\\FixMyShip.Web\\FixMyShip.BusinessLayer\\FixMyShip.BusinessLayer.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "\\\\WINWEBSERVER\\Backup\\March-2020\\BCT\\Shilpa\\FixMyShip.Web\\FixMyShip.BusinessLayer\\FixMyShip.BusinessLayer.csproj",
+        "projectName": "FixMyShip.BusinessLayer",
+        "projectPath": "\\\\WINWEBSERVER\\Backup\\March-2020\\BCT\\Shilpa\\FixMyShip.Web\\FixMyShip.BusinessLayer\\FixMyShip.BusinessLayer.csproj",
+        "packagesPath": "C:\\Users\\Bhuvaneswari\\.nuget\\packages\\",
+        "outputPath": "\\\\WINWEBSERVER\\Backup\\March-2020\\BCT\\Shilpa\\FixMyShip.Web\\FixMyShip.BusinessLayer\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Bhuvaneswari\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.2"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.2": {
+            "projectReferences": {
+              "\\\\WINWEBSERVER\\Backup\\March-2020\\BCT\\Shilpa\\FixMyShip.Web\\FixMyShip.DataLayer\\FixMyShip.DataLayer.csproj": {
+                "projectPath": "\\\\WINWEBSERVER\\Backup\\March-2020\\BCT\\Shilpa\\FixMyShip.Web\\FixMyShip.DataLayer\\FixMyShip.DataLayer.csproj"
+              },
+              "\\\\WINWEBSERVER\\Backup\\March-2020\\BCT\\Shilpa\\FixMyShip.Web\\FixMyShip.Entities\\FixMyShip.Entities.csproj": {
+                "projectPath": "\\\\WINWEBSERVER\\Backup\\March-2020\\BCT\\Shilpa\\FixMyShip.Web\\FixMyShip.Entities\\FixMyShip.Entities.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.2": {
+          "dependencies": {
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.101\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "\\\\WINWEBSERVER\\Backup\\March-2020\\BCT\\Shilpa\\FixMyShip.Web\\FixMyShip.DataLayer\\FixMyShip.DataLayer.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "\\\\WINWEBSERVER\\Backup\\March-2020\\BCT\\Shilpa\\FixMyShip.Web\\FixMyShip.DataLayer\\FixMyShip.DataLayer.csproj",
+        "projectName": "FixMyShip.DataLayer",
+        "projectPath": "\\\\WINWEBSERVER\\Backup\\March-2020\\BCT\\Shilpa\\FixMyShip.Web\\FixMyShip.DataLayer\\FixMyShip.DataLayer.csproj",
+        "packagesPath": "C:\\Users\\Bhuvaneswari\\.nuget\\packages\\",
+        "outputPath": "\\\\WINWEBSERVER\\Backup\\March-2020\\BCT\\Shilpa\\FixMyShip.Web\\FixMyShip.DataLayer\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Bhuvaneswari\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.2"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.2": {
+            "projectReferences": {
+              "\\\\WINWEBSERVER\\Backup\\March-2020\\BCT\\Shilpa\\FixMyShip.Web\\FixMyShip.Entities\\FixMyShip.Entities.csproj": {
+                "projectPath": "\\\\WINWEBSERVER\\Backup\\March-2020\\BCT\\Shilpa\\FixMyShip.Web\\FixMyShip.Entities\\FixMyShip.Entities.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.2": {
+          "dependencies": {
+            "FluentNHibernate": {
+              "target": "Package",
+              "version": "[2.1.2, )"
+            },
+            "Microsoft.Extensions.DependencyInjection.Abstractions": {
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )",
+              "autoReferenced": true
+            },
+            "MySql.Data": {
+              "target": "Package",
+              "version": "[8.0.19, )"
+            },
+            "NHibernate": {
+              "target": "Package",
+              "version": "[5.2.7, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.101\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "\\\\WINWEBSERVER\\Backup\\March-2020\\BCT\\Shilpa\\FixMyShip.Web\\FixMyShip.Entities\\FixMyShip.Entities.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "\\\\WINWEBSERVER\\Backup\\March-2020\\BCT\\Shilpa\\FixMyShip.Web\\FixMyShip.Entities\\FixMyShip.Entities.csproj",
+        "projectName": "FixMyShip.Entities",
+        "projectPath": "\\\\WINWEBSERVER\\Backup\\March-2020\\BCT\\Shilpa\\FixMyShip.Web\\FixMyShip.Entities\\FixMyShip.Entities.csproj",
+        "packagesPath": "C:\\Users\\Bhuvaneswari\\.nuget\\packages\\",
+        "outputPath": "\\\\WINWEBSERVER\\Backup\\March-2020\\BCT\\Shilpa\\FixMyShip.Web\\FixMyShip.Entities\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Bhuvaneswari\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.2"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.2": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.2": {
+          "dependencies": {
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.101\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "\\\\WINWEBSERVER\\Backup\\March-2020\\BCT\\Shilpa\\FixMyShip.Web\\FixMyShip.TestCases\\FixMyShip.TestCases.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "\\\\WINWEBSERVER\\Backup\\March-2020\\BCT\\Shilpa\\FixMyShip.Web\\FixMyShip.TestCases\\FixMyShip.TestCases.csproj",
+        "projectName": "FixMyShip.TestCases",
+        "projectPath": "\\\\WINWEBSERVER\\Backup\\March-2020\\BCT\\Shilpa\\FixMyShip.Web\\FixMyShip.TestCases\\FixMyShip.TestCases.csproj",
+        "packagesPath": "C:\\Users\\Bhuvaneswari\\.nuget\\packages\\",
+        "outputPath": "\\\\WINWEBSERVER\\Backup\\March-2020\\BCT\\Shilpa\\FixMyShip.Web\\FixMyShip.TestCases\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Bhuvaneswari\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {
+              "\\\\WINWEBSERVER\\Backup\\March-2020\\BCT\\Shilpa\\FixMyShip.Web\\FixMyShip.BusinessLayer\\FixMyShip.BusinessLayer.csproj": {
+                "projectPath": "\\\\WINWEBSERVER\\Backup\\March-2020\\BCT\\Shilpa\\FixMyShip.Web\\FixMyShip.BusinessLayer\\FixMyShip.BusinessLayer.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "dependencies": {
+            "Microsoft.NET.Test.Sdk": {
+              "target": "Package",
+              "version": "[16.2.0, )"
+            },
+            "NSubstitute": {
+              "target": "Package",
+              "version": "[4.2.1, )"
+            },
+            "coverlet.collector": {
+              "target": "Package",
+              "version": "[1.0.1, )"
+            },
+            "xunit": {
+              "target": "Package",
+              "version": "[2.4.0, )"
+            },
+            "xunit.runner.visualstudio": {
+              "target": "Package",
+              "version": "[2.4.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.101\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

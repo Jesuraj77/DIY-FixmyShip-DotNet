@@ -1,0 +1,4 @@
+C:\Users\shilpa\source\repos\FixMyShip.Web\FixMyShip.DataLayer\bin\Debug\netcoreapp3.1\FixMyShip.DataLayer.deps.json
+C:\Users\shilpa\source\repos\FixMyShip.Web\FixMyShip.DataLayer\bin\Debug\netcoreapp3.1\FixMyShip.DataLayer.dll
+C:\Users\shilpa\source\repos\FixMyShip.Web\FixMyShip.DataLayer\obj\Debug\netcoreapp3.1\FixMyShip.DataLayer.AssemblyInfoInputs.cache
+C:\Users\shilpa\source\repos\FixMyShip.Web\FixMyShip.DataLayer\obj\Debug\netcoreapp3.1\FixMyShip.DataLayer.AssemblyInfo.cs
